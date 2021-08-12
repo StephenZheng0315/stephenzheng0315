@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning for postgraduate examination.
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=giswqs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide=javascript,go,html,css,tex)
+![github stats](https://github-readme-stats.vercel.app/api?username=StephenZheng0315&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenZheng0315&langs_count=3&hide=javascript,go,html,css,tex)
