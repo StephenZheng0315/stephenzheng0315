@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning for postgraduate examination.
+- 🌱 My current research interests are the radiative effects of atmospheric aerosols and computer vision
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=StephenZheng0315&show_icons=true)
