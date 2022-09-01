@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 My current research interests are the radiative effects of atmospheric aerosols and computer vision
-- 🤔 Graduate students of the Federal Institute of Technology of Lausanne, class of 2022, autumn
+
+- 🤔 Working as a research assistant at the Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences, the main direction is in agricultural remote sensing
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=StephenZheng0315&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephenZheng0315&langs_count=3&hide=javascript,go,html,css,tex)
